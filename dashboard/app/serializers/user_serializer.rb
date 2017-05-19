@@ -51,6 +51,8 @@
 #  invited_by_type            :string(255)
 #  invitations_count          :integer          default(0)
 #  terms_of_service_version   :integer
+#  urm                        :boolean
+#  races                      :string(255)
 #
 # Indexes
 #
