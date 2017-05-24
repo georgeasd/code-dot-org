@@ -8,7 +8,6 @@ import _ from 'lodash';
 const styles = {
   card: {
     overflow: 'hidden',
-    borderRadius: 3,
     border: '1px solid gray',
     position: 'relative',
     height: 245,
@@ -69,7 +68,7 @@ const styles = {
   },
   continueLink: {
     color: color.teal,
-    fontSize: 12,
+    fontSize: 14,
     fontFamily: '"Gotham", sans-serif',
     fontWeight: 'bold',
     marginTop: -2,
@@ -78,7 +77,7 @@ const styles = {
   chevron: {
     display: 'inline',
     color: color.teal,
-    fontSize: 10,
+    fontSize: 12,
     fontWeight: 'bold',
     marginLeft: 15,
   },
