@@ -29,7 +29,7 @@ const styles = {
     paddingBottom: 5,
     marginTop: 15,
     fontSize: 18,
-    fontFamily: '"Gotham 3r", sans-serif',
+    fontFamily: 'Gotham',
     color: 'rgba(255, 255, 255, .9)',
     zIndex: 2,
     position: 'absolute'
@@ -41,7 +41,7 @@ const styles = {
     paddingBottom: 5,
     marginTop: 50,
     fontSize: 14,
-    fontFamily: '"Gotham", sans-serif',
+    fontFamily: 'Gotham',
     color: 'rgba(255, 255, 255, .9)',
     position: 'absolute',
     zIndex: 2,

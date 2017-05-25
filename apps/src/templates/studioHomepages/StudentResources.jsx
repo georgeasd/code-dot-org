@@ -6,7 +6,6 @@ import i18n from "@cdo/locale";
 const StudentResources = React.createClass({
 
   render() {
-
     return (
       <CollapsibleSection header={i18n.resources()}>
         <ResourceCard
