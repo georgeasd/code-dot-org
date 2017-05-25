@@ -28,7 +28,7 @@ const styles = {
     paddingBottom: 5,
     marginTop: 15,
     fontSize: 18,
-    fontFamily: 'Gotham 3r'
+    fontFamily: 'Gotham 3r',
     color: color.white,
     zIndex: 2,
     position: 'absolute',
@@ -42,7 +42,7 @@ const styles = {
     marginTop: 115,
     fontSize: 14,
     lineHeight: 1.5,
-    fontFamily: 'Gotham 3r'
+    fontFamily: 'Gotham 3r',
     color: color.gray,
     background: color.white,
     height: 130,
